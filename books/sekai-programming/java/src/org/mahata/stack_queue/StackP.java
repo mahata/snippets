@@ -1,3 +1,5 @@
+package org.mahata.stack_queue;
+
 // P. 81
 
 class Node {
@@ -32,6 +34,9 @@ class Stack {
     }
 }
 
+/**
+ * Created by mahata on 8/29/16.
+ */
 public class StackP {
     public static void main(String[] args) {
         // int arr[] = {2, 5, -2, 6, -3};
