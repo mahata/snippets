@@ -4,6 +4,7 @@ package org.mahata.array_string;
  * Created by mahata on 8/31/16.
  */
 public class Unique2 {
+    // assuming all chars are lower-case chars
     static private boolean isUnique(String s) {
         if (s.length() > 256) {
             return false;
